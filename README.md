@@ -16,4 +16,4 @@
 
 - Pet-проекты:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lazav-De&repo=cpp-transport-catalogue)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lazav-De&repo=cpp-search-server)]()
