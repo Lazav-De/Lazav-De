@@ -10,9 +10,8 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lazav-De&repo=cpp-transport-catalogue)](https://github.com/Lazav-De/cpp-transport-catalogue.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lazav-De&repo=cpp-transport-catalogue)](https://github.com/Lazav-De/cpp-transport-catalogue.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lazav-De&repo=cpp-transport-catalogue)](https://github.com/Lazav-De/cpp-transport-catalogue.git)
+
 
 - Pet-проекты:
 
